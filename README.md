@@ -15,22 +15,21 @@ Minha jornada começou aos 15 anos com programação em **Python**. Depois migre
 Hoje meu foco total está em construir uma base sólida em:
 
 - Redes e protocolos  
-- Linux & Windows  
+- Linux  
 - Segurança Web  
 - Reconhecimento, enumeração e exploração  
 - Privilege Escalation  
 - Active Directory  
 - Metodologias de Penetration Testing  
 
-Atualmente estou seguindo a trilha **Penetration Tester Job Role Path** da **Hack The Box**, com o objetivo de evoluir até a certificação **HTB CPTS**.
+Atualmente estou seguindo o roadmap **pre security** da tryhackme.
 
 ---
 
 ## 🚀 O que estou fazendo agora
 
-- 📚 Estudando a trilha de Penetration Tester na Hack The Box  
-- 🌐 Aprofundando conhecimentos em redes (Cisco Networking Academy)  
-- 🐧 Praticando Linux e Privilege Escalation  
+- 📚 Estudando e colocando em pratica os estudos do roadmap da tryhackme
+- 🌐 Revisando e aprofundando conhecimentos em redes (Cisco Networking Academy)  
 - 🛡️ Documentando minha evolução em repositórios públicos  
 
 ---
