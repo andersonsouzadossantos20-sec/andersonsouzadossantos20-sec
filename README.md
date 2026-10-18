@@ -18,11 +18,10 @@ Hoje meu foco total está em construir uma base sólida em:
 - Linux  
 - Segurança Web  
 - Reconhecimento, enumeração e exploração  
-- Privilege Escalation  
-- Active Directory  
+- Privilege Escalation   
 - Metodologias de Penetration Testing  
 
-Atualmente estou seguindo o roadmap **pre security** da tryhackme.
+Atualmente estou seguindo o roadmap **pre security** da **TryHackMe**.
 
 ---
 
@@ -41,7 +40,7 @@ Atualmente estou seguindo o roadmap **pre security** da tryhackme.
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Cisco-049AD7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
@@ -56,7 +55,8 @@ Atualmente estou seguindo o roadmap **pre security** da tryhackme.
 
 ## 📫 Vamos nos conectar?
 
-- **LinkedIn:** [Anderson Souza](https://www.linkedin.com/in/anderson-souza-04a5a7384)  
+- **LinkedIn:** [Anderson Souza](https://www.linkedin.com/in/anderson-souza-04a5a7384)
+- **TryHackMe** [Anderson Souza](https://tryhackme.com/p/andersonsouzadossantos20)
 
 ---
 
