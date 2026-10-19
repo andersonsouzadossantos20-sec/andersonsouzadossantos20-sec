@@ -49,7 +49,6 @@ Atualmente estou seguindo o roadmap **pre security** da **TryHackMe**.
 ## 📂 Meus Repositórios Principais
 
 - 🛡️ [Roadmap de Cybersecurity](https://github.com/andersonsouzadossantos20-sec/roadmap-anderson) — Documentação da minha jornada e estudos  
-- (adicione outros repositórios relevantes aqui)
 
 ---
 
