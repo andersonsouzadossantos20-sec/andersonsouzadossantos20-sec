@@ -50,7 +50,6 @@ Atualmente estou seguindo o roadmap **pre security** da **TryHackMe**.
 
 - 🛡️ [Roadmap de Cybersecurity](https://github.com/andersonsouzadossantos20-sec/roadmap-anderson) — Documentação da minha jornada e estudos  
 
----
 
 ## 📫 Vamos nos conectar?
 
